@@ -6,6 +6,8 @@ I am a professional focused on problem-solving, acting as a bridge between techn
 
 My projects in predictive modeling, risk analysis, and operations optimization demonstrate how I apply these skills in practice.
 
+- 🔗 **LinkedIn:** [www.linkedin.com/in/isaacmartinezor](https://www.linkedin.com/in/isaacmartinezor/)
+
 ---
 
 ### 🛠️ My Tech Stack
