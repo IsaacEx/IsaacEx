@@ -18,7 +18,7 @@ Me enfoco en la **integridad de los hallazgos** y en la claridad de la comunicac
 | :--- | :--- |
 | **Análisis y Modelado** | Python (Pandas 3.0, NumPy), SQL, PyArrow, Scikit-learn, SciPy. |
 | **Visualización y BI** | Power BI, Tableau, Plotly, Dash, Streamlit, Matplotlib, Seaborn. |
-| **Estrategia y Negocio** | Métricas (CAC/LTV, Unit Economics), Pruebas A/B, Diagnóstico de Procesos, Análisis de KPIs. |
+| **Estrategia y Negocio** | Métricas (CAC/LTV, Unit Economics), Pruebas A/B, Diagnóstico de Procesos, Investigación de Mercado, Segmentación de Clientes, Análisis de KPIs. |
 | **Herramientas y Entorno** | Git/GitHub, Cursor, Antigravity IDE, VS Code, Entornos Conda. |
 
 ---
