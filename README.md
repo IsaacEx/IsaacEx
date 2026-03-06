@@ -38,7 +38,7 @@ Me enfoco en la **integridad de los hallazgos** y en la claridad de la comunicac
 | :--- | :--- |
 | **[FoodTech](https://github.com/IsaacEx/aab-testing-optimized-pipeline)** | Validación estadística (**Bonferroni**) para determinar si cambios de diseño afectaban realmente las ventas. |
 | **[E-Commerce A/B](https://github.com/IsaacEx/ab-test-ecom-revenue-optimization)** | Priorización de hipótesis (**RICE**) y validación de mejoras en la conversión para una tienda online. |
-| **[Zuber](https://github.com/IsaacEx/weather_impact_rideshare)** | Análisis de cómo factores externos (clima) afectan los tiempos de llegada y la dinámica competitiva. |
+| **[Zuber](https://github.com/IsaacEx/weather-impact-rideshare)** | Análisis de cómo factores externos (clima) afectan los tiempos de llegada y la dinámica competitiva. |
 
 ### 🤖 Machine Learning y Modelado Predictivo
 | Proyecto | ¿Qué resolví? |
