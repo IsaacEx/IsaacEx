@@ -23,38 +23,25 @@ Me enfoco en la **integridad de los hallazgos** y en la claridad de la comunicac
 
 ---
 
-## 📂 Portafolio de Proyectos por Categoría
+## 📂 Índice de Proyectos por Categoría
 
-### 💰 Estrategia e Impacto de Negocio
-| Proyecto | ¿Qué resolví? |
-| :--- | :--- |
-| **[Showz](https://github.com/IsaacEx/showz-unit-economics-analysis)** | Auditoría de **Unit Economics** identificando canales con CAC > LTV para optimizar la rentabilidad. |
-| **[Instacart](https://github.com/IsaacEx/instacart-market-basket-analysis)** | Auditoría técnica de un dataset masivo (**4.5M+**) para identificar ciclos de recompra y fidelidad. |
-| **[Megaline](https://github.com/IsaacEx/megaline-revenue-optimization)** | Análisis de planes para determinar si los límites contractuales dictaban el consumo real del usuario. |
-| **[ICE Gaming](https://github.com/IsaacEx/ice-gaming-market-analysis)** | Validación de reseñas profesionales como predictor de éxito y detección de géneros con mayor **ROI**. |
+| Categoría | Proyecto | ¿Qué resolví? |
+| :--- | :--- | :--- |
+| **💰 Estrategia & ROI** | **[Showz](https://github.com/IsaacEx/showz-unit-economics-analysis)** | Identificación de canales de marketing con CAC > LTV. |
+| | **[Instacart](https://github.com/IsaacEx/instacart-market-basket-analysis)** | Auditoría técnica de dataset masivo (4.5M+) y patrones de fidelidad. |
+| | **[Megaline](https://github.com/IsaacEx/megaline-revenue-optimization)** / **[ICE](https://github.com/IsaacEx/ice-gaming-market-analysis)** | Rentabilidad de planes y validación de reseñas como predictor de éxito. |
+| **📊 Estadística & ML** | **[FoodTech](https://github.com/IsaacEx/aab-testing-optimized-pipeline)** | Test A/A/B con rigor estadístico (Bonferroni) para validar ventas. |
+| | **[Model Fitness](https://github.com/IsaacEx/model-fitness-churn-prediction)** | Modelo predictivo de abandono (Churn) y segmentación por Clustering. |
+| | **[A/B Testing](https://github.com/IsaacEx/ab-test-ecom-revenue-optimization)** / **[Zuber](https://github.com/IsaacEx/weather_impact_rideshare)** | Priorización RICE y análisis de impacto climático en movilidad. |
+| **🛠️ Ingeniería** | **[YT Trends](https://github.com/IsaacEx/yt-trends-dashboard-pipeline)** | Pipeline automatizado con Pandas 3.0 y PyArrow para reportes en vivo. |
+| | **[Vehicle Market](https://github.com/IsaacEx/vehicle-market-analytics-app)** | Dashboard interactivo para detectar depreciación de mercado. |
 
-### 📊 Experimentación y Rigor Estadístico
-| Proyecto | ¿Qué resolví? |
-| :--- | :--- |
-| **[FoodTech](https://github.com/IsaacEx/aab-testing-optimized-pipeline)** | Validación estadística (**Bonferroni**) para determinar si cambios de diseño afectaban realmente las ventas. |
-| **[E-Commerce A/B](https://github.com/IsaacEx/ab-test-ecom-revenue-optimization)** | Priorización de hipótesis (**RICE**) y validación de mejoras en la conversión para una tienda online. |
-| **[Zuber](https://github.com/IsaacEx/weather-impact-rideshare)** | Análisis de cómo factores externos (clima) afectan los tiempos de llegada y la dinámica competitiva. |
+---
 
-### 🤖 Machine Learning y Modelado Predictivo
-| Proyecto | ¿Qué resolví? |
-| :--- | :--- |
-| **[Model Fitness](https://github.com/IsaacEx/model-fitness-churn-prediction)** | Modelo predictivo (**Clustering / Clasificación**) para detectar clientes en riesgo de abandono. |
-
-### 🛠️ Ingeniería de Datos y Automatización
-| Proyecto | ¿Qué resolví? |
-| :--- | :--- |
-| **[YT Trends](https://github.com/IsaacEx/yt-trends-dashboard-pipeline)** | Pipeline automatizado con **Pandas 3.0** y **PyArrow** para reportes de tendencias en tiempo real. |
-| **[Vehicle Market](https://github.com/IsaacEx/vehicle-market-analytics-app)** | Dashboard interactivo en **Streamlit** para detectar patrones de depreciación de mercado sin latencia. |
-
-### ⏳ Próximamente (En Refactorización Modular)
-* **CallMeMaybe**: Optimización de eficiencia operativa en call centers con arquitectura desacoplada.
-* **E-commerce Recommender**: Validación científica de algoritmos de recomendación mediante **A/B Testing**.
-* **Book Service SQL**: Consultas avanzadas para segmentación de catálogo y extracción de valor de negocio.
+## ⏳ Próximamente (Refactorización Modular)
+* **CallMeMaybe**: Eficiencia operativa en call centers (Arquitectura desacoplada).
+* **E-commerce Recommender**: Validación científica de algoritmos de recomendación.
+* **Book Service SQL**: Consultas avanzadas para segmentación de catálogo.
 
 ---
 
